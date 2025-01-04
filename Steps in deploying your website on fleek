@@ -1,0 +1,9 @@
+A Fleek account (sign up at https://fleek.co)
+Basic knowledge of Git and hosting
+Log in to Fleek Dashboard: https://app.fleek.co.
+Click on "New Site".
+Choose "GitHub" and authenticate Fleek with your GitHub account.
+Select your website repository and branch to deploy.
+Set the build command (e.g., npm run build, gatsby build, etc.).
+Specify the output directory (e.g., build/, dist/, etc.).
+Click Deploy Site.
